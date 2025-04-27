@@ -1,0 +1,17 @@
+// public/locales/ja/common.json
+{
+  "communicationText": "日本語でのコミュニケーション力を伸ばしたい方へ。30分間、あなたの目的に合わせたサポートを提供します。",
+  "price": "料金",
+  "lessonDuration": "レッスンの時間",
+  "lessonPrice": "レッスン料金",
+  "payNow": "今すぐ支払う",
+  "japanese": "日本語",
+  "english": "英語",
+  "french": "フランス語",
+  "italian": "イタリア語",
+  "arabic": "アラビア語",
+  "hindi": "ヒンディー語",
+  "korean": "韓国語",
+  "chinese": "簡体字中国語",
+  "chinese-tw": "繁體字中国語"
+}

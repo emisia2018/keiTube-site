@@ -1,0 +1,118 @@
+/* ヘッダーのスタイルリセット */
+header {
+  border: none; /* 線を削除 */
+  margin: 0;
+  padding: 0;
+}
+
+/* フッターのスタイル */
+footer {
+  background-color: #f0f0f0; /* グレーの背景色 */
+  padding: 20px;
+  text-align: center;
+  font-size: 14px;
+}
+/* 全体的なフォント設定 */
+body {
+  font-family: 'Arial', sans-serif;  /* 全体に使うフォントを指定 */
+  line-height: 1.6;  /* 行間を広めに設定 */
+  color: #333;  /* テキストの色 */
+  margin: 0;
+  padding: 0;
+}
+
+/* タイトル設定 */
+h1 {
+  font-size: 2.5rem;  /* 大きめのフォントサイズ */
+  text-align: center;  /* 中央揃え */
+  color: #333;  /* 色を調整 */
+  margin-bottom: 20px;  /* 下部に余白を追加 */
+}
+/* 料金（h2）のスタイル */
+h2 {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #f39700; /* コーポレートカラーのオレンジ */
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+/* レッスンの紹介文 */
+p {
+  font-size: 1.2rem;  /* 少し大きめのフォント */
+  text-align: center;  /* 中央揃え */
+  color: #555;  /* 色を少し明るく */
+  margin-bottom: 20px;  /* 下部に余白 */
+}
+
+/* PayPalリンクのスタイル */
+a {
+  background-color: #f39700;  /* オレンジ色 */
+  color: white;
+  padding: 12px 25px;  /* ボタン風にするために余白を増やす */
+  text-decoration: none;
+  border-radius: 5px;
+  display: inline-block;
+  margin-top: 20px;
+  font-size: 1.2rem;  /* フォントサイズを調整 */
+  font-weight: bold;  /* 太文字にして強調 */
+}
+
+a:hover {
+  background-color: #e88d00;  /* ホバー時に少し濃いオレンジ */
+}
+
+/* 言語切り替えボタンのスタイル */
+div {
+  margin-top: 20px;
+  text-align: center;
+}
+
+/* ボタンのスタイル */
+div a {
+  margin: 5px; /* ボタン間の間隔 */
+  font-size: 1.2rem;
+  color: white;  /* 文字色を白に変更 */
+  background-color: #f39700;  /* ボタン背景色 */
+  text-decoration: none;
+  padding: 8px 16px;  /* ボタンを少しコンパクトに */
+  display: inline-block;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;  /* ホバー時のアニメーションを追加 */
+}
+/* 言語切り替えボタンだけデザインを変える */
+.language-switcher a {
+  background-color: transparent;
+  color: #333;
+  font-size: 1rem;
+  padding: 4px 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin: 4px;
+  text-decoration: none;
+}
+
+.language-switcher a:hover {
+  background-color: #eee;
+}
+
+/* ホバー時のスタイル */
+div a:hover {
+  background-color: #e88d00;  /* ホバー時に少し濃いオレンジ */
+}
+
+/* スマホ向けのレスポンシブデザイン */
+@media (max-width: 768px) {
+  div {
+    display: block; /* ボタンを縦並びに変更 */
+    line-height: 1.5; /* 行間を調整 */
+  }
+
+  div a {
+    width: auto; /* ボタン幅をコンパクトに */
+    margin: 5px auto; /* ボタン間の間隔を狭める */
+    padding: 6px 12px; /* ボタンをコンパクトにする */
+    font-size: 1rem;  /* フォントサイズを少し小さく */
+  }
+}
