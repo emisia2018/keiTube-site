@@ -11,7 +11,7 @@ export default function Home() {
       <h1>
         <img src="/images/main-image.png" alt="Main Visual" style={{ width: '100%', height: 'auto' }} />
       </h1>
-
+<section id="main">
       <p>{t('communicationText')}</p>
 
       <h2>{t('price')}</h2>
@@ -55,6 +55,7 @@ export default function Home() {
         <Link href="/" locale="zh" legacyBehavior><a className="language-button">{t('simplifiedChinese')}</a></Link>
         <Link href="/" locale="zh-TW" legacyBehavior><a className="language-button">{t('traditionalChinese')}</a></Link>
       </div>
+      </section>
     </Layout>
   );
 }

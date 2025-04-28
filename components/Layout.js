@@ -7,7 +7,7 @@ const Layout = ({ children }) => {
     <div>
       <header></header>  {/* ヘッダータイトルを削除 */}
       <main>{children}</main>
-      <footer>© emisia株式会社</footer>  {/* フッターに著作権表示を変更 */}
+      <footer>© emisia Co.,Ltd.</footer>  {/* フッターに著作権表示を変更 */}
     </div>
   );
 };
