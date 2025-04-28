@@ -60,7 +60,7 @@ a {
 }
 
 a:hover {
-  background-color: #e88d00;  /* ホバー時に少し濃いオレンジ */
+
 }
 
 /* 言語切り替えボタンのスタイル */
@@ -70,10 +70,10 @@ div {
 }
 
 /* ボタンのスタイル */
-div a {
+.resav a {
   margin: 5px; /* ボタン間の間隔 */
   font-size: 1.2rem;
-  color: white;  /* 文字色を白に変更 */
+  color: #fff;  /* 文字色を白に変更 */
   background-color: #f39700;  /* ボタン背景色 */
   text-decoration: none;
   padding: 8px 16px;  /* ボタンを少しコンパクトに */
@@ -81,6 +81,11 @@ div a {
   border-radius: 5px;
   transition: background-color 0.3s ease;  /* ホバー時のアニメーションを追加 */
 }
+/* ホバー時のスタイル */
+.resav a:hover {
+  background-color: #e88d00;  /* ホバー時に少し濃いオレンジ */
+}
+
 /* 言語切り替えボタンだけデザインを変える */
 .language-switcher a {
   background-color: transparent;
@@ -97,10 +102,6 @@ div a {
   background-color: #eee;
 }
 
-/* ホバー時のスタイル */
-div a:hover {
-  background-color: #e88d00;  /* ホバー時に少し濃いオレンジ */
-}
 
 /* スマホ向けのレスポンシブデザイン */
 @media (max-width: 768px) {

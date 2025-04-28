@@ -1,8 +1,8 @@
 {
-  "communicationText": "Pour ceux qui souhaitent améliorer leurs compétences en communication en japonais. Je fournirai 30 minutes de soutien adaptées à vos objectifs.",
-  "price": "Prix",
-  "lessonDuration": "Durée du cours",
-  "lessonPrice": "Prix du cours",
+  "communicationText": "Pour ceux qui souhaitent améliorer leurs compétences en communication japonaise. Nous proposons un accompagnement personnalisé de 30 minutes selon vos objectifs.",
+  "price": "Tarif",
+  "lessonDuration": "Durée de la leçon",
+  "lessonPrice": "Frais de leçon",
   "payNow": "Payer maintenant",
   "japanese": "Japonais",
   "english": "Anglais",
@@ -11,5 +11,9 @@
   "arabic": "Arabe",
   "hindi": "Hindi",
   "korean": "Coréen",
-  "chinese": "Chinois"
+  "chinese": "Chinois simplifié",
+  "chinese-tw": "Chinois traditionnel",
+  "reservationTitle": "Réserver ici",
+  "reservationInstruction": "Veuillez d'abord choisir la date et l'heure souhaitées dans le calendrier ci-dessous. Ensuite, procédez au paiement via PayPal.",
+  "paymentButton": "Procéder au paiement"
 }

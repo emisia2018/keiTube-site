@@ -1,9 +1,9 @@
 {
-  "communicationText": "想提高日语沟通能力的朋友们。我将根据您的目标提供30分钟的支持。",
+  "communicationText": "希望提高日语交流能力的人士。我们根据您的目标提供30分钟的个性化支持。",
   "price": "价格",
   "lessonDuration": "课程时长",
   "lessonPrice": "课程费用",
-  "payNow": "立即支付",
+  "payNow": "立即付款",
   "japanese": "日语",
   "english": "英语",
   "french": "法语",
@@ -11,5 +11,9 @@
   "arabic": "阿拉伯语",
   "hindi": "印地语",
   "korean": "韩语",
-  "chinese": "中文"
+  "chinese": "简体中文",
+  "chinese-tw": "繁體中文",
+  "reservationTitle": "立即预约",
+  "reservationInstruction": "请先从下方日历中选择希望的日期和时间，然后通过PayPal付款。",
+  "paymentButton": "前往付款"
 }

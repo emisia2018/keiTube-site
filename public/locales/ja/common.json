@@ -13,5 +13,8 @@
   "hindi": "ヒンディー語",
   "korean": "韓国語",
   "chinese": "簡体字中国語",
-  "chinese-tw": "繁體字中国語"
+  "chinese-tw": "繁體字中国語",
+  "reservationTitle": "ご予約はこちら",
+  "reservationInstruction": "まずは下記カレンダーよりご希望の日時をお選びください。その後、PayPalにて決済をお願いいたします。",
+  "paymentButton": "決済はこちらから"
 }

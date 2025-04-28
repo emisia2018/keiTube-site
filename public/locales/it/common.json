@@ -1,8 +1,8 @@
 {
-  "communicationText": "Per chi desidera migliorare le proprie capacità comunicative in giapponese. Offrirò 30 minuti di supporto personalizzato in base ai tuoi obiettivi.",
+  "communicationText": "Per chi vuole migliorare le proprie competenze comunicative in giapponese. Offriamo supporto personalizzato di 30 minuti in base ai tuoi obiettivi.",
   "price": "Prezzo",
   "lessonDuration": "Durata della lezione",
-  "lessonPrice": "Prezzo della lezione",
+  "lessonPrice": "Costo della lezione",
   "payNow": "Paga ora",
   "japanese": "Giapponese",
   "english": "Inglese",
@@ -11,5 +11,9 @@
   "arabic": "Arabo",
   "hindi": "Hindi",
   "korean": "Coreano",
-  "chinese": "Cinese"
+  "chinese": "Cinese semplificato",
+  "chinese-tw": "Cinese tradizionale",
+  "reservationTitle": "Prenota qui",
+  "reservationInstruction": "Scegli prima la data e l'orario desiderati dal calendario sottostante. Successivamente procedi al pagamento tramite PayPal.",
+  "paymentButton": "Procedi al pagamento"
 }

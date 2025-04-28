@@ -1,8 +1,8 @@
 {
-  "communicationText": "For those who want to improve communication skills in Japanese. A 30-minute session tailored to your goals.",
+  "communicationText": "For those who want to improve their Japanese communication skills. We offer 30-minute personalized support according to your goals.",
   "price": "Price",
   "lessonDuration": "Lesson Duration",
-  "lessonPrice": "Lesson Price",
+  "lessonPrice": "Lesson Fee",
   "payNow": "Pay Now",
   "japanese": "Japanese",
   "english": "English",
@@ -11,5 +11,9 @@
   "arabic": "Arabic",
   "hindi": "Hindi",
   "korean": "Korean",
-  "chinese": "Chinese"
+  "chinese": "Simplified Chinese",
+  "chinese-tw": "Traditional Chinese",
+  "reservationTitle": "Make a Reservation",
+  "reservationInstruction": "Please select your preferred date and time from the calendar below. Then proceed with payment via PayPal.",
+  "paymentButton": "Proceed to Payment"
 }

@@ -1,15 +1,19 @@
 {
-  "communicationText": "일본어 커뮤니케이션 능력을 향상시키고 싶은 분들께. 목표에 맞춰 30분간 지원을 제공합니다.",
+  "communicationText": "일본어 커뮤니케이션 능력을 향상시키고 싶은 분들을 위해. 30분 동안 목표에 맞춘 개인 맞춤 지원을 제공합니다.",
   "price": "가격",
   "lessonDuration": "수업 시간",
-  "lessonPrice": "수업 요금",
+  "lessonPrice": "수업료",
   "payNow": "지금 결제하기",
   "japanese": "일본어",
   "english": "영어",
   "french": "프랑스어",
   "italian": "이탈리아어",
   "arabic": "아랍어",
-  "hindi": "힌디",
+  "hindi": "힌디어",
   "korean": "한국어",
-  "chinese": "중국어"
+  "chinese": "간체 중국어",
+  "chinese-tw": "번체 중국어",
+  "reservationTitle": "예약하기",
+  "reservationInstruction": "아래 캘린더에서 원하는 날짜와 시간을 선택한 후 PayPal로 결제해 주세요.",
+  "paymentButton": "결제 진행하기"
 }
