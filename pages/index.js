@@ -36,7 +36,7 @@ export default function Home() {
         </div>
 
         {/* Googleカレンダー予約ボタンも改めて案内しておく */}
-        <div class="resav"style={{ marginTop: '20px', textAlign: 'center' }}>
+        <div className="resav"style={{ marginTop: '20px', textAlign: 'center' }}>
           <a href="https://calendar.app.google/mxqMLHGRzzkR5gaE9" target="_blank" rel="noopener noreferrer" >
          {t('reservationTitle')}
           </a>
